@@ -15,8 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@hh-auth/hh-other": ["packages/hh-other/src/index.ts"],
-      "@hh-auth/hh-security": ["packages/hh-security/src/index.ts"]
+      "@hh-auth/security": ["packages/security/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
